@@ -1,0 +1,201 @@
+{
+  "workshops": [
+    {
+      "id": "ws-1",
+      "title": "Sourdough Ramen & Handmade Noodles",
+      "description": "Learn to turn basic organic flour and spring water into elastic, rich ramen noodles. We'll make the broth from scratch and finish with a full bowl.",
+      "category": "dishes",
+      "duration": 3,
+      "level": "all levels",
+      "hostId": "member-1",
+      "date": "2026-07-05",
+      "time": "10:00 AM",
+      "seats": 8,
+      "bookedSeats": 0,
+      "emoji": "🍜",
+      "cardBg": "linear-gradient(135deg, #f97316, #dc2626)",
+      "imageUrl": "https://images.unsplash.com/photo-1569050467447-ce54b3bbc37d?w=600&q=80",
+      "isHostedByCurrentUser": true
+    },
+    {
+      "id": "ws-2",
+      "title": "Urban Sketching: Ink & Line Basics",
+      "description": "Grab a pen and notebook! Learn to capture buildings, streets, and everyday scenes with loose, confident line work. We'll cover perspective, gesture, and quick shading.",
+      "category": "drawing",
+      "duration": 2,
+      "level": "beginner",
+      "hostId": "member-2",
+      "date": "2026-07-08",
+      "time": "2:00 PM",
+      "seats": 10,
+      "bookedSeats": 0,
+      "emoji": "✏️",
+      "cardBg": "linear-gradient(135deg, #f59e0b, #b45309)",
+      "imageUrl": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=600&q=80"
+    },
+    {
+      "id": "ws-3",
+      "title": "Intro to Jazz Guitar & Improvisation",
+      "description": "No experience needed! Learn basic chord shapes, strumming patterns, and the secret to sounding jazzy. You'll play your first 12-bar blues by end of class.",
+      "category": "music",
+      "duration": 2,
+      "level": "beginner",
+      "hostId": "member-3",
+      "date": "2026-07-10",
+      "time": "6:00 PM",
+      "seats": 10,
+      "bookedSeats": 1,
+      "emoji": "🎸",
+      "cardBg": "linear-gradient(135deg, #1d4ed8, #7c3aed)",
+      "imageUrl": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=600&q=80"
+    },
+    {
+      "id": "ws-4",
+      "title": "Botanical Watercolor Painting",
+      "description": "Paint wildflowers and garden plants using classic watercolor techniques. We'll cover wet-on-wet, color mixing, and negative painting. Supplies provided.",
+      "category": "drawing",
+      "duration": 3,
+      "level": "all levels",
+      "hostId": "member-2",
+      "date": "2026-07-12",
+      "time": "11:00 AM",
+      "seats": 8,
+      "bookedSeats": 0,
+      "emoji": "🎨",
+      "cardBg": "linear-gradient(135deg, #7c3aed, #db2777)",
+      "imageUrl": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?w=600&q=80"
+    },
+    {
+      "id": "ws-5",
+      "title": "Backyard Food Forest & Composting",
+      "description": "Turn any outdoor space into a productive food forest. Learn companion planting, no-dig beds, and how to build a hot compost system that works year-round.",
+      "category": "gardening",
+      "duration": 2,
+      "level": "intermediate",
+      "hostId": "member-4",
+      "date": "2026-07-15",
+      "time": "9:00 AM",
+      "seats": 12,
+      "bookedSeats": 0,
+      "emoji": "🌱",
+      "cardBg": "linear-gradient(135deg, #16a34a, #065f46)",
+      "imageUrl": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=600&q=80"
+    },
+    {
+      "id": "ws-6",
+      "title": "Traditional Kimchi & Fermentation",
+      "description": "Learn the ancient art of lacto-fermentation. We'll make classic kimchi, quick pickles, and a simple sauerkraut you can take home in a mason jar.",
+      "category": "dishes",
+      "duration": 2.5,
+      "level": "beginner",
+      "hostId": "member-1",
+      "date": "2026-07-18",
+      "time": "1:00 PM",
+      "seats": 8,
+      "bookedSeats": 0,
+      "emoji": "🥬",
+      "cardBg": "linear-gradient(135deg, #dc2626, #92400e)",
+      "imageUrl": "https://images.unsplash.com/photo-1590301157890-4810ed352733?w=600&q=80",
+      "isHostedByCurrentUser": true
+    },
+    {
+      "id": "ws-1782392620396",
+      "title": "Maths",
+      "description": "hmm\n",
+      "category": "other",
+      "duration": 1,
+      "level": "intermediate",
+      "hostId": "wakeup.krupal@gmail.com",
+      "hostEmail": "wakeup.krupal@gmail.com",
+      "date": "2026-06-24",
+      "time": "15:03",
+      "seats": 2,
+      "bookedSeats": 0,
+      "emoji": "🎓",
+      "cardBg": "linear-gradient(135deg, #ea580c, #c2410c)",
+      "isHostedByCurrentUser": true
+    }
+  ],
+  "members": [
+    {
+      "id": "member-1",
+      "name": "Alex Rivera",
+      "neighborhood": "Maplewood",
+      "avatarInitials": "AR",
+      "avatarBg": "#2d6a4f",
+      "bio": "Home cook and fermentation enthusiast. I learned traditional techniques from my grandmother and have been sharing them with neighbors for years. Let's make something delicious together!",
+      "livedExperience": "Spent 3 years learning fermentation and preservation techniques through family tradition and community cooking workshops before moving to Maplewood.",
+      "skills": [
+        "Sourdough Baking",
+        "Fermentation",
+        "Knife Skills",
+        "Ramen Making"
+      ],
+      "hostedCount": 15,
+      "rating": 4.8,
+      "joinedDate": "Jan 2024",
+      "isCurrentUser": true
+    },
+    {
+      "id": "member-2",
+      "name": "Maya Chen",
+      "neighborhood": "Oakwood Heights",
+      "avatarInitials": "MC",
+      "avatarBg": "#7c3aed",
+      "bio": "Full-time ceramics instructor and weekend watercolor artist. I love teaching beginners the joy of making things with their hands.",
+      "livedExperience": "BFA in Craft & Material Studies. Founder of the Saturday Clay Club. Teaching hand-building ceramics for 7 years.",
+      "skills": [
+        "Hand-built Ceramics",
+        "Watercolor Painting",
+        "Sgraffito",
+        "Natural Dyeing"
+      ],
+      "hostedCount": 31,
+      "rating": 4.9,
+      "joinedDate": "Feb 2024"
+    },
+    {
+      "id": "member-3",
+      "name": "Sam Okafor",
+      "neighborhood": "Riverside",
+      "avatarInitials": "SO",
+      "avatarBg": "#0369a1",
+      "bio": "Musician and music teacher. Jazz guitarist by training, folk music by heart. I run a weekly jam session and love introducing people to improvisation.",
+      "livedExperience": "Berklee College of Music graduate. 10+ years teaching guitar and music theory to all ages.",
+      "skills": [
+        "Guitar",
+        "Music Theory",
+        "Jazz Improvisation",
+        "Ukulele"
+      ],
+      "hostedCount": 22,
+      "rating": 4.7,
+      "joinedDate": "Mar 2024"
+    },
+    {
+      "id": "member-4",
+      "name": "Priya Nair",
+      "neighborhood": "Green Valley",
+      "avatarInitials": "PN",
+      "avatarBg": "#b45309",
+      "bio": "Urban gardener and herbalist. I turned my backyard into a food forest and want to show you how to grow your own food, even in small spaces.",
+      "livedExperience": "Certified permaculture designer. Runs the Green Valley community garden plot. 5 years teaching urban farming.",
+      "skills": [
+        "Container Gardening",
+        "Seed Saving",
+        "Composting",
+        "Herb Cultivation"
+      ],
+      "hostedCount": 18,
+      "rating": 4.9,
+      "joinedDate": "Apr 2024"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "b-1782394289026",
+      "workshopId": "ws-3",
+      "userEmail": "tasker@example.com"
+    }
+  ]
+}
